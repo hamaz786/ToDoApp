@@ -63,6 +63,26 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+An app which helps to manage your your task online.
+
+#To run app on your system
+
+#Run on terminal
+
+npm install
+then run
+
+npm start
+This app consist three page: #1 LoginPage.jsx :where user login in the app;
+
+#2. SignPage.jsx: where user can send his data to server which will save in mongodb database.
+
+#3 TodoList.jsx: In the component user can manage their To Do's list where he can create a todo. He can edit it and he can also delete and also remove it as per choice of user.
+
+#Router is used to manage the navigation of app from one page to another which helps the navigatigation easiy.
+
+Your have to install the backend server which helps to authenticate the user and store the data of user.
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
