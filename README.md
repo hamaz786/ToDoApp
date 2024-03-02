@@ -19,9 +19,11 @@ Here are the some snapshot of the project which are deployed:-->
 
 ![Screenshot (148)](https://github.com/hamaz786/ToDoApp/assets/106072128/6287fd17-701d-4174-86cb-16ba9014bb3c)
 
-
+# App overview where you can add ,edit,delete, and see completed data.
 
 ![Screenshot (149)](https://github.com/hamaz786/ToDoApp/assets/106072128/de82f081-047e-4954-8b8a-f281b7d61365)
+
+
 
 
 ![Screenshot (151)](https://github.com/hamaz786/ToDoApp/assets/106072128/a6a9ea03-789d-4aae-923d-849cb847ec79)
