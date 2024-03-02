@@ -15,9 +15,11 @@ Here are the some snapshot of the project which are deployed:-->
 # User data are authenticated here from server
 ![Screenshot (147)](https://github.com/hamaz786/ToDoApp/assets/106072128/c416379a-faf3-4138-80bd-b33e756a6773)
 
-
+# Users can also Signup and providing their data which will store in database
 
 ![Screenshot (148)](https://github.com/hamaz786/ToDoApp/assets/106072128/6287fd17-701d-4174-86cb-16ba9014bb3c)
+
+
 
 ![Screenshot (149)](https://github.com/hamaz786/ToDoApp/assets/106072128/de82f081-047e-4954-8b8a-f281b7d61365)
 
