@@ -8,7 +8,23 @@ The project consist of two part part one is the
 
 Here are the some snapshot of the project which are deployed:-->
 
+# Authentication Snapshot
+
 ![Screenshot (146)](https://github.com/hamaz786/ToDoApp/assets/106072128/72a83638-dfc9-4fa3-82c6-cd61bf95ba1b)
+
+# User data are authenticated here from server
+![Screenshot (147)](https://github.com/hamaz786/ToDoApp/assets/106072128/c416379a-faf3-4138-80bd-b33e756a6773)
+
+
+
+![Screenshot (148)](https://github.com/hamaz786/ToDoApp/assets/106072128/6287fd17-701d-4174-86cb-16ba9014bb3c)
+
+![Screenshot (149)](https://github.com/hamaz786/ToDoApp/assets/106072128/de82f081-047e-4954-8b8a-f281b7d61365)
+
+
+![Screenshot (151)](https://github.com/hamaz786/ToDoApp/assets/106072128/a6a9ea03-789d-4aae-923d-849cb847ec79)
+
+![Screenshot (152)](https://github.com/hamaz786/ToDoApp/assets/106072128/fc8c481a-8a4b-43e0-a28b-3a3ca1a2aa94)
 
 
  
