@@ -5,7 +5,7 @@ ToDo App which manage the todo list of user and and authenticate the user login 
 The project consist of two part part one is the
  ## Fronend Part :In this user can interact with frontend and manage the his todo list where he can add title and description. And he can also edit the todo list and also delete the to do list.
  ##                 and user and tick the completed task and also can see the completed task.
-
+ ## Server part :In this server or api created where user details are store in database and user authentication is done.
 Here are the some snapshot of the project which are deployed:-->
 
 # Authentication Snapshot
