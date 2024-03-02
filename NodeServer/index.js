@@ -6,7 +6,6 @@ const mongoose = require('mongoose')
 
 const bodyParser = require('body-parser')
 const jwt = require('jsonwebtoken')
-const PORT=process.env.PORT || 5000;
 
 const JWT_SECRET =
   'hvdvay6ert72839289()aiyg8t87qt72393293883uhefiuh78ttq3ifi78272jbkj?[]]pou89ywe'
@@ -70,6 +69,6 @@ server.post('/login-user', async (req, res) => {
 })
 
 //  Server listening at Port 5000
-server.listen(PORT, () => {
+server.listen(5000, () => {
   console.log('Server started')
 })
