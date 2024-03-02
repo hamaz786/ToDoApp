@@ -23,11 +23,12 @@ Here are the some snapshot of the project which are deployed:-->
 
 ![Screenshot (149)](https://github.com/hamaz786/ToDoApp/assets/106072128/de82f081-047e-4954-8b8a-f281b7d61365)
 
-
+# Title and description are added to todo app by client
 
 
 ![Screenshot (151)](https://github.com/hamaz786/ToDoApp/assets/106072128/a6a9ea03-789d-4aae-923d-849cb847ec79)
 
+# Can update also the title and description
 ![Screenshot (152)](https://github.com/hamaz786/ToDoApp/assets/106072128/fc8c481a-8a4b-43e0-a28b-3a3ca1a2aa94)
 
 
