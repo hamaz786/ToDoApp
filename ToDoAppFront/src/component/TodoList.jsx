@@ -36,6 +36,8 @@ export default function TodoList() {
     let updatedTodoArr = [...allTodos]
     updatedTodoArr.push(newTodoItem)
     setTodos(updatedTodoArr)
+    setNewTitle(() => '')
+    setNewDescription(() => '')
     localStorage.setItem('todolist', JSON.stringify(updatedTodoArr))
   }
 
